@@ -1,1 +1,1 @@
-This is the alx low level programming README
+This is the introduction to C README
